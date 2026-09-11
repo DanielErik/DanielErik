@@ -9,7 +9,7 @@
 
 A **SOFTWARE DEVELOPMENT** ***Enthusiast*** 🚀 with a growing interest in **2D/3D graphics, shaders and enterprise software**.
 
-<img align="right" alt="Coding GIF" width="350px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
