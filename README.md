@@ -18,6 +18,8 @@ At the moment I'm exploring how graphics work under the hood — from rendering 
 * 🌊 Currently experimenting with **PIXI.js & GLSL shaders**
 * 🧠 Always curious about how things work under the hood
 
+* <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 ---
 
 ## 🛠️ Languages & Technologies
