@@ -1,82 +1,69 @@
-# 👋 Hey, I'm Daniel
+<h3 title="Hey 👋"> Hey 👋, I'm Daniel!</h3>
 
-### 💻 Fachinformatiker für Anwendungsentwicklung · Graphics & Software Development
+<a href="https://github.com/DanielErik">
+  <img align="left" alt="Daniel's GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-I'm currently in my **2nd year of vocational training as an Application Developer (FIAE)**.
+<br />
+<br />
 
-I'm especially interested in **2D/3D development, graphics programming and enterprise software**.
-At the moment I'm exploring how graphics work under the hood — from rendering and shaders to GPU-based effects.
+A **SOFTWARE DEVELOPMENT** ***Enthusiast*** 🚀 with a growing interest in **2D/3D graphics, shaders and enterprise software**.
 
----
+<img align="right" alt="Coding GIF" width="350px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-## 🚀 About Me
+**About Me!**
 
-* 🎓 FIAE — currently in my **2nd year of training**
-* 💻 Working with **TypeScript** and **Java**
-* 🎨 Interested in **2D & 3D development**
-* 🏢 Interested in **enterprise software**
-* 🌊 Currently experimenting with **PIXI.js & GLSL shaders**
-* 🧠 Always curious about how things work under the hood
+* 👨‍💻 I’m currently in my **2nd year of vocational training as an Application Developer (FIAE)**
+* 💻 I mainly work with **TypeScript** and **Java**
+* 🎨 I’m interested in **2D & 3D development**
+* 🏢 I’m especially interested in **enterprise software**
+* 🌊 I recently started exploring **shaders and graphics programming**
+* 🔬 Currently experimenting with **PIXI.js & GLSL**
+* 🧠 I enjoy learning how things work under the hood
+* 🚀 Currently working on my first little **water shader**
 
-* <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+**Languages and Tools:**
 
----
+<code><img height="30" src="https://skillicons.dev/icons?i=ts"></code> <code><img height="30" src="https://skillicons.dev/icons?i=java"></code> <code><img height="30" src="https://skillicons.dev/icons?i=pixi"></code> <code><img height="30" src="https://skillicons.dev/icons?i=git"></code> <code><img height="30" src="https://skillicons.dev/icons?i=github"></code>
 
-## 🛠️ Languages & Technologies
+**Currently Exploring:**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,java,pixijs" />
-</p>
-
-**Currently exploring:**
-
-`TypeScript` · `Java` · `PIXI.js` · `GLSL` · `Shaders` · `2D/3D Graphics`
+`GLSL` · `Shaders` · `2D Graphics` · `3D Graphics` · `GPU Rendering`
 
 ---
 
-## 🌊 Current Project
+### 🌊 Current Project
 
-### [Pixi Water Shader](https://github.com/DanielErik/Pixi_WaterShader)
+<a href="https://github.com/DanielErik/Pixi_WaterShader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielErik&repo=Pixi_WaterShader&theme=radical&hide_border=true" />
+</a>
 
-I'm currently experimenting with an animated water surface using **PIXI.js, TypeScript and GLSL shaders**.
+I'm currently experimenting with **water shaders using PIXI.js, TypeScript and GLSL**.
 
-The goal is to understand:
+My goal is to understand more about:
 
 * 🎨 Fragment & Vertex Shaders
 * 🧮 Mathematical wave functions
-* 🖼️ UV coordinates & textures
-* ⏱️ Animation through uniforms
-* ⚡ GPU rendering & performance
-
-> Learning graphics programming by building things and figuring out what's happening under the hood.
+* 🖼️ UV coordinates
+* ⚡ GPU rendering
+* ⏱️ Shader uniforms & animation
 
 ---
 
-## 🎯 What I'm Interested In
+<img src="https://github-readme-stats.vercel.app/api?username=DanielErik&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple" alt="Daniel's GitHub Stats">
 
-```text
-2D Graphics       ███████████████████░░
-3D Graphics       ███████████████░░░░░
-Shaders / GLSL    ████████████░░░░░░░░
-Enterprise SW     █████████████████░░░
-Game / Rendering  ██████████████░░░░░░
-```
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielErik&theme=radical&hide_border=true" alt="Daniel's GitHub Streak" />
+
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielErik&layout=compact&theme=radical&hide_border=true" alt="Daniel's Top Languages" />
 
 ---
 
-## 📈 GitHub Stats
+### 🎯 What I'm working towards
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielErik&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielErik&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+**2D/3D Graphics · Shader Programming · Enterprise Software · Software Architecture**
 
----
-
-### 🌱 Currently learning
-
-**Graphics Programming · Shaders · GLSL · 2D/3D Rendering · Software Architecture**
+> "The best way to understand something is to build it."
 
 ---
 
-⭐ Feel free to check out my projects and follow along as I learn.
+⭐ Thanks for stopping by!
