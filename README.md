@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71813&center=true&vCenter=true&width=700&height=50&lines=Hey+%F0%9F%91%8B%2C+I%27m+Daniel!;SOFTWARE+DEVELOPMENT+Enthusiast+%F0%9F%9A%80;2D%2F3D+graphics%2C+shaders+and+enterprise+software" alt="Hey, I'm Daniel" />
 </div>
 
-Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is **Daniel**<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>. A **SOFTWARE DEVELOPMENT** ***Enthusiast*** 🚀 with a growing interest in **2D/3D graphics, shaders and enterprise software**.
+Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> \nMy name is **Daniel**<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>. A **SOFTWARE DEVELOPMENT** ***Enthusiast*** 🚀 with a growing interest in **2D/3D graphics, shaders and enterprise software**.
 
 <a href="https://github.com/DanielErik">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=DanielErik&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple" alt="Daniel's GitHub Stats" /></a>
